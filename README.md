@@ -1,5 +1,5 @@
 
-<img src='../akdavila2/assets/ProfileGitHub.png'>
+<img src='../akdavila2/assets/ProfileGitHub.png' alt= 'bannerprofile'/>
 
 Frontend developer,  dueña de mi aprendizaje y de mi crecimiento personal y profesional, soy positiva, alegre, perseverante, autodidacta, adaptable, práctica y organizada. Trabajando cada dia en mi propósito profesional de ser developer, y preparada para los retos que me vienen. 
 
