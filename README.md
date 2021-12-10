@@ -1,6 +1,6 @@
 <center>
 
-<img width="800" alt="ProfileGitHub" src="https://user-images.githubusercontent.com/7150868/139152654-9426ed09-414a-408c-ac2a-dca7834fc947.png">
+<img align="center" width="800" alt="ProfileGitHub" src="https://user-images.githubusercontent.com/7150868/139152654-9426ed09-414a-408c-ac2a-dca7834fc947.png">
 
 </center>
 
@@ -18,9 +18,9 @@ Frontend developer,  dueña de mi aprendizaje y de mi crecimiento personal y pro
 
 -  Stats
 
-<p align="center">![Karina’s github stats](https://github-readme-stats.vercel.app/api?username=akdavila2&show_icons=true&theme=onedark)</p>
+![Karina’s github stats](https://github-readme-stats.vercel.app/api?username=akdavila2&show_icons=true&theme=onedark)
 
-<img align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akdavila2&show_icons=true&theme=onedark)</img>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akdavila2&show_icons=true&theme=onedark)
 
 
 
