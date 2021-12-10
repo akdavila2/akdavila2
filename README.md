@@ -8,15 +8,15 @@ Frontend developer,  dueña de mi aprendizaje y de mi crecimiento personal y pro
 
 :wrench:  Herramientas<br>
 
-<img width="50" height="25" alt="ProfileGitHub" src="https://user-images.githubusercontent.com/7150868/139156594-c645c204-c97d-4935-aff1-a6582af11301.png"> &nbsp;&nbsp;&nbsp;&nbsp;<img width="25" height="25" alt="ProfileGitHub" src="https://user-images.githubusercontent.com/7150868/139156596-7ff15a0c-8d89-4a05-9573-0c4aa2d962a6.png"> &nbsp;&nbsp;&nbsp;&nbsp;<img width="25" height="25" alt="ProfileGitHub" src="https://user-images.githubusercontent.com/7150868/139156597-7aeef48f-9b4e-4b33-b623-fed9bec47e4f.png"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img width="50" height="25" alt="ProfileGitHub" src="https://user-images.githubusercontent.com/7150868/139156599-097f21da-2c3e-49a4-a473-040104423c6c.png"> &nbsp;&nbsp;&nbsp;&nbsp;<img width="25" height="25" alt="ProfileGitHub" src="https://user-images.githubusercontent.com/7150868/139156601-455852e5-6e3c-4e83-8026-793f416dbceb.png">
+<p  align="center"><img width="50" height="25" alt="ProfileGitHub" src="https://user-images.githubusercontent.com/7150868/139156594-c645c204-c97d-4935-aff1-a6582af11301.png"> &nbsp;&nbsp;&nbsp;&nbsp;<img width="25" height="25" alt="ProfileGitHub" src="https://user-images.githubusercontent.com/7150868/139156596-7ff15a0c-8d89-4a05-9573-0c4aa2d962a6.png"> &nbsp;&nbsp;&nbsp;&nbsp;<img width="25" height="25" alt="ProfileGitHub" src="https://user-images.githubusercontent.com/7150868/139156597-7aeef48f-9b4e-4b33-b623-fed9bec47e4f.png"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img width="50" height="25" alt="ProfileGitHub" src="https://user-images.githubusercontent.com/7150868/139156599-097f21da-2c3e-49a4-a473-040104423c6c.png"> &nbsp;&nbsp;&nbsp;&nbsp;<img width="25" height="25" alt="ProfileGitHub" src="https://user-images.githubusercontent.com/7150868/139156601-455852e5-6e3c-4e83-8026-793f416dbceb.png"></p>
 
 
 -  Stats
 
-![Karina’s github stats](https://github-readme-stats.vercel.app/api?username=akdavila2&show_icons=true&theme=onedark)
+<p align="center">![Karina’s github stats](https://github-readme-stats.vercel.app/api?username=akdavila2&show_icons=true&theme=onedark)</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akdavila2&show_icons=true&theme=onedark)
+<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akdavila2&show_icons=true&theme=onedark)</p>
 
 
 
