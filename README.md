@@ -13,11 +13,8 @@ Frontend developer,  dueña de mi aprendizaje y de mi crecimiento personal y pro
 # <p  align="center" > :bar_chart:  Stats 
 </p>
 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akdavila2&show_icons=true&theme=onedark"></p>
-
-
-
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akdavila2&show_icons=true&theme=onedark"></p>
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akdavila2&show_icons=true&theme=onedark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akdavila2&show_icons=true&theme=onedark"></p>
 
 
 
